@@ -4,13 +4,6 @@
 This project is a implementation of a book store in ANSI C with File I/O
 licensed under the permissive MIT license.
 
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/javiermontenegro/C_BookStore.FileIO/master/screenshot.png"
-  alt="C_BookStore.FileIO" width="686" height="385">
-</p>
-
-
 ### Prerequisites
 
 In order to be able to install customer you will need following software:
